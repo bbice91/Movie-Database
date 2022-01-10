@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "209d8269-e5fb-420d-857b-8839adf4a6e9": {
+      "ProjectGuid": "209d8269-e5fb-420d-857b-8839adf4a6e9",
+      "DisplayName": "Movie-Database",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
